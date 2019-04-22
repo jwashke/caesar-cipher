@@ -1,5 +1,5 @@
-# Caesar Cipher in react
+# Caesar Cipher
 
-## Running
+## To Run
 
 `npm run dev`
